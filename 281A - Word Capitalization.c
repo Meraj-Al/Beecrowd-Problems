@@ -12,7 +12,6 @@ int main() {
         word[0] = toupper(word[0]);
     }
 
-    // Print the result
     printf("%s\n", word);
 
     return 0;
